@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm RanjanBa
+# Hi there! 👋 I'm Ranjan Baro
 
 Welcome to my GitHub profile!
 
@@ -20,9 +20,8 @@ I'm a passionate developer with a great interest in learning new technologies an
 Check out my repositories below to see what I've been working on!
 
 ## 📫 How to reach me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [ranjanbaro2015@gmail.com](mailto:ranjanbaro2015@gmail.com)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- **Twitter**: [@yourtwitter](https://twitter.com/yourtwitter)
 - **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
 ## 📊 GitHub Stats
